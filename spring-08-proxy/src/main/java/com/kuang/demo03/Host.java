@@ -1,6 +1,6 @@
 package com.kuang.demo03;
 
-import com.kuang.demo01.Rent;
+
 
 public class Host implements Rent {
 
