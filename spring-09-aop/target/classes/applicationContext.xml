@@ -14,6 +14,18 @@
     <bean id="annotationPointCut" class="com.kuang.diy.AnnotationPointCut"/>
 <!--    开启注解支持-->
     <aop:aspectj-autoproxy/>
+
+
+
+
+
+
+
+
+
+
+
+
 <!--    &lt;!&ndash;        方式一使用原生spring api接口&ndash;&gt;-->
 <!--    &lt;!&ndash;    配置aop:需要导入aop的约束&ndash;&gt;-->
 <!--    <aop:config>-->
@@ -24,6 +36,14 @@
 <!--        <aop:advisor advice-ref="afterLog" pointcut-ref="pointcut"/>-->
 
 <!--    </aop:config>-->
+
+
+
+
+
+
+
+
 
 <!--&lt;!&ndash;    方式二:自定义类&ndash;&gt;-->
 <!--    <bean id ="diy" class="com.kuang.diy.DiyPointCut" />-->

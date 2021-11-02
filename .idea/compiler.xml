@@ -7,15 +7,28 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-02-hellospring" />
+        <module name="itheima_spring_test" />
         <module name="spring-04-di" />
-        <module name="spring-06-anno" />
         <module name="spring-03-ios2" />
+        <module name="itheima_spring_tx" />
+        <module name="itheima_mybatis_mapper" />
+        <module name="spring-08-proxy" />
+        <module name="itheima_mybatis_quick" />
+        <module name="itheima_spring_interceptor" />
+        <module name="itheima_spring_exception" />
+        <module name="itheima_spring_mvc" />
+        <module name="spring-06-anno" />
         <module name="spring-09-aop" />
+        <module name="itheima_spring_jdbc" />
         <module name="spring-07-appconfig" />
+        <module name="itheima_spring_aop" />
+        <module name="itheima_mybatis_dao" />
         <module name="spring-01-ioc1" />
         <module name="spring-05-Autowired" />
-        <module name="spring-08-proxy" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itheima_spring_test (1)" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

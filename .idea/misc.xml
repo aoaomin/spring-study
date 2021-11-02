@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/10/itheima_spring_tx" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/11/itheima_mybatis_quick" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/12/itheima_mybatis_dao" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/13/itheima_mybatis_mapper" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/7/itheima_spring_interceptor" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/7/itheima_spring_test" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/8/itheima_spring_exception" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/9/itheima_spring_aop" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/itheima_spring_jdbc" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/itheima_spring_test" />
+    <file type="web" url="file://$USER_HOME$/Desktop/mvc学习/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第三天资料/案例/itheima_spring_mvc" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第三天资料/案例/itheima_spring_mvc/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/itheima_spring_jdbc/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/itheima_spring_test/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/7/itheima_spring_interceptor/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/8/itheima_spring_exception/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/9/itheima_spring_aop/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/10/itheima_spring_tx/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/11/itheima_mybatis_quick/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/12/itheima_mybatis_dao/pom.xml" />
+        <option value="$USER_HOME$/Desktop/mvc学习/13/itheima_mybatis_mapper/pom.xml" />
       </list>
     </option>
   </component>
